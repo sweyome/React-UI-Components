@@ -5,7 +5,7 @@ const HeaderTitle = () => {
     return ( 
         <div>
 
-            <p>This is a header Title</p>
+            <p>Lambda School</p>
         </div>
      );
 }
